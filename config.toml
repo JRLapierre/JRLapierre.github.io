@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://github.com/JRLapierre/JRLapierre.github.io/'
+languageCode = 'fr-fr'
 title = 'My New Hugo Site'
 theme = 'iutdelens'
 categories : ["Projet", "Développement web"]
